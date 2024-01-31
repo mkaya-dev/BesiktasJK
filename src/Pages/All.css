@@ -1,0 +1,81 @@
+/* navbar */
+nav{
+    display: flex;
+    justify-content:space-around;
+}
+
+ul{
+  float: left;
+}
+
+li{
+    list-style: none;
+    font-family: system-ui;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: -50px;
+    display: flex;
+}
+
+li:hover{
+  color: orangered;
+}
+
+  /* sol sag */
+
+  .sol{
+    float: left;
+    padding: 100px;
+  }
+
+  .sag{
+    float: right;
+    padding: 100px;
+  }
+
+
+  h1{
+    font-family: 'Quicksand', sans-serif;
+  }
+
+  h5{
+    font-family: 'Courier New', Courier, monospace;
+    margin: 5px;
+    
+  }
+
+  .a{
+   background-color: black;
+  }
+  .a:hover{
+    background-color: #EEEDEB;
+    transition: 1s;
+  }
+
+  .btn{
+    width: 200px;
+    border-radius: 60px;
+    height: 60px;
+    border: 5px solid #EEEDEB;
+  }
+
+  .button{
+    height: 30px;
+    width: 30px;
+    border: 1px solid white;
+    background-color: inherit;
+    font-size: 25px;
+  }
+
+  .c{
+    background-color: black;
+  }
+
+
+  
+ 
+
+ 
+
+ 
+
